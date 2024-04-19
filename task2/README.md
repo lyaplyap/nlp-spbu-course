@@ -47,7 +47,7 @@
     — Отнец, восемь! — ужеливо сказал дворник, но отставительно засмедовольный в гобель.
     ```
 
-* Funnel Transformer
+* Funnel Transformer:
 
     ```txt
     10.837376 M parameters
