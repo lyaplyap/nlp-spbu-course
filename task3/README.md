@@ -4,7 +4,7 @@
 
 * Веб-приложение с дообученной моделью: [neurorama.press](https://neurorama.press/).
 
-* Репозиторией веб-приложения: https://github.com/lyaplyap/neurorama/tree/main
+* Репозиторий веб-приложения: https://github.com/lyaplyap/neurorama/tree/main
 
 * Ответ модели до fine-tuning:
 
