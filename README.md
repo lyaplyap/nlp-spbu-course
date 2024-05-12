@@ -4,14 +4,16 @@
 
 Код решения находится в директории [task1](./task1/).
 
-Инструкция по запуску описана в [task1/README](./task1/README.md).
+Инструкция к решению описана в [task1/README](./task1/README.md).
 
 ## Задание 2. GPT
 
 Код решения находится в директории [task2](./task2/).
 
-Инструкция по запуску описана в [task2/README](./task2/README.md).
+Инструкция к решению описана в [task2/README](./task2/README.md).
 
 ## Задание 3. Fine-Tune
 
-*(work in progress)*
+Код решения находится в директории [task3](./task3/).
+
+Инструкция к решению описана в [task3/README](./task3/README.md).
